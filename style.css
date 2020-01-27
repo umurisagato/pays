@@ -1,0 +1,25 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+img{ 
+  background-image: url("madagascal2.jpg");
+  background-size: "2";
+  background-position: top left;
+}
+.colortext{
+  color: brown;
+
+}
+body {
+  font-style: normal;
+}
+#image{
+  width= 20px; height= 30px;
+}
+li{ 
+  background-color: green;
+  list-style-type: none;
+  display: inline;
+
+}
